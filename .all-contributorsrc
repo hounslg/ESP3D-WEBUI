@@ -295,6 +295,35 @@
         "code",
         "review"
       ]
+    },
+    {
+      "login": "jeyeager65",
+      "name": "Jason Yeager",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28162926?v=4",
+      "profile": "https://github.com/jeyeager65",
+      "contributions": [
+        "financial"
+      ]
+    },
+    {
+      "login": "makerbase-mks",
+      "name": "makerbase",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12979070?v=4",
+      "profile": "https://discord.gg/yNwksQvZmQ",
+      "contributions": [
+        "financial",
+        "platform"
+      ]
+    },
+    {
+      "login": "abcpibot",
+      "name": "abcpibot",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5948988?v=4",
+      "profile": "https://github.com/abcpibot",
+      "contributions": [
+        "financial",
+        "platform"
+      ]
     }
   ],
   "contributorsPerLine": 7,
