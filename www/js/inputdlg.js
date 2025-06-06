@@ -16,7 +16,7 @@ function closeInputModal(response) {
     var answer = "";
     if (response == "ok") {
         var input = document.getElementById('inputldg_text').value;
-        answer = input.trim();
+        answer = input.trim().toUpperCase();
     }
     closeModal(answer);
 }
